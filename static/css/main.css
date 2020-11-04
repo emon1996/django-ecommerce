@@ -1,3 +1,9 @@
 body{
-	background: #fc0;
+	
+}
+
+.box-element{
+	background: #fff;
+	border-radius: 20px%;
+	box-shadow: 2px 2px 16px #cece;
 }
